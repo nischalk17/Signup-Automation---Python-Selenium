@@ -2,10 +2,9 @@
 
 ## Project Overview
 This project automates the signup process on "Authorized Partner" (https://authorized-partner.netlify.app/login), including:
-- OTP verification via Gmail.
-- Agency details submission.
-- Professional experience step.
-- Business preferences and file uploads.
+- OTP verification via Gmail
+- Multiple Pages Automation on different elements.
+- File uploads.
 - Step-wise navigation and logout automation.
 
 The script uses Selenium WebDriver in Python and simulates human-like interactions, including typing, scrolling, and dropdown selection with retries.

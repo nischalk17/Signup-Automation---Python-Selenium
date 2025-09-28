@@ -2,7 +2,7 @@
 
 ## Project Overview
 This project automates the signup process on "Authorized Partner" (https://authorized-partner.netlify.app/login), including:
-- OTP verification via Gmail
+- OTP verification via Gmail.
 - Multiple Pages Automation on different elements.
 - File uploads.
 - Step-wise navigation and logout automation.
@@ -39,14 +39,11 @@ Python built-in libraries used: imaplib, email, uuid, random, time, re, datetime
 
 How to Run the Script:
 Clone or download the repository:
-git clone <YOUR_REPO_LINK>
-cd <REPO_FOLDER>
-
+git clone https://github.com/nischalk17/Signup-Automation---Python-Selenium
 
 Update credentials and test data in the script:
 GMAIL_USER = "testingacct404@gmail.com"
 GMAIL_PASSWORD = "<16-letter App Password>"
-
 
 Run the script:
 python signup_automation_script.py
